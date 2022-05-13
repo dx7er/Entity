@@ -1,0 +1,2 @@
+pyfiglet==0.8.post1
+pyshark==0.4.5
