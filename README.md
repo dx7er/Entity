@@ -28,3 +28,8 @@ Python tool for different Wifi Hacking Techniques.
 3. Use Command `pip install -r requirements.txt` to install required python modules.
 
 ## How to Run?
+1. Use `bash req.sh` to complete requirements phase.
+2. Use Command `python entit.py` to Run Tool.\
+                    **OR** \
+   Use Command `python3 entity.py` to Run ToolKit!
+### Don't Forget to Follow my Github.
