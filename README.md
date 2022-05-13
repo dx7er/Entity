@@ -23,4 +23,8 @@ Python tool for different Wifi Hacking Techniques.
 5. wifite
 
 ## How to Use?
-1. Use command `git clone https://github.com/naqviO7/Entity.git`
+1. Use command `git clone https://github.com/naqviO7/Entity.git` and clone Github Repo.
+2. Now Use Command `cd Entity/`.
+3. Use Command `pip install -r requirements.txt` to install required python modules.
+
+## How to Run?
