@@ -1,8 +1,8 @@
 # Entity
-Python tool for different Wifi Hacking Techniques.
+Python tool for different Wifi Hacking Techniques. It contains multiple Wifi attacks.
 
 ## Source Code.
-![carbon](https://user-images.githubusercontent.com/79792270/168388447-5b11cb76-5595-4cf5-b8ee-7ea135a0c17b.png)
+![carbon](https://user-images.githubusercontent.com/79792270/168390254-b110c5a8-240f-4c6b-82f2-92b44493a2b9.png)
 
 ## What It DO?
 1. Scan Networks
@@ -28,8 +28,8 @@ Python tool for different Wifi Hacking Techniques.
 3. Use Command `pip install -r requirements.txt` to install required python modules.
 
 ## How to Run?
-1. Use `bash req.sh` to complete requirements phase.
-2. Use Command `python entit.py` to Run Tool.\
+1. Use `bash install.sh` to complete requirements phase.
+2. Use Command `python entity.py` to Run Tool.\
                     **OR** \
    Use Command `python3 entity.py` to Run ToolKit!
 ### Don't Forget to Follow my Github.
