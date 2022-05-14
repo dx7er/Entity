@@ -31,5 +31,5 @@ Python tool for different Wifi Hacking Techniques. It contains multiple Wifi att
 1. Use `bash install.sh` to complete requirements phase.
 2. Use Command `python entity.py` to Run Tool.\
                     **OR** \
-   Use Command `python3 entity.py` to Run ToolKit!
+   Use Command `python3 entity.py` to Run Tool!
 ### Don't Forget to Follow my Github.
