@@ -32,5 +32,5 @@ Python tool for different Wifi Hacking Techniques. It contains multiple Wifi att
 2. Use Command `python entity.py` to Run Tool.\
                     **OR** \
    Use Command `python3 entity.py` to Run Tool!
-#
-# Don't Forget to Follow my Github.
+ #
+<a href="https://www.buymeacoffee.com/naqviO7" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
